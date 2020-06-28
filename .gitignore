@@ -1,0 +1,7 @@
+.git
+db.sqlite3
+virtualenv
+__pycache__
+*.pyc
+.pytest_cache
+src.egg-info
